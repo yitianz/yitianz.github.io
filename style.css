@@ -22,7 +22,7 @@
     background-color: #004d4d;
 }
 
-.active {
+.navigation .active {
     background-color: #00cccc;
 }
 
@@ -34,4 +34,12 @@
     background-color: #b3cccc;
     color: black;
     text-align: center;
+}
+
+.footer li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
 }
