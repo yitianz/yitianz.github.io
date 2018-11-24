@@ -27,12 +27,12 @@
 }
 
 .footer {
+    /* TODO: fix footer alignment */
     /* position: fixed; */
-    /* right: 0; */
+    /* right: 150; */
     /* bottom: 0; */
-    /* width: 100%; */
-    /* background-color: #b3cccc; */
-    /* text-align: center; */
+    background-color: #b3cccc;
+    text-align: center;
 }
 
 .footer ul {
@@ -44,7 +44,7 @@
 }
 
 .footer li {
-    float: right;
+    float: left;
 }
 
 .footer li a {
