@@ -47,3 +47,7 @@
 img {
     image-orientation: from-image;
 }
+
+p, h1, h3 {
+    font-family: Helvetica, sans-serif, Arial
+}
