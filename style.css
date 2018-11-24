@@ -36,6 +36,18 @@
     text-align: center;
 }
 
+.footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b3cccc;
+}
+
+.footer li {
+    float: center;
+}
+
 .footer li a {
     display: block;
     color: black;
@@ -46,8 +58,4 @@
 
 img {
     image-orientation: from-image;
-}
-
-p, h1, h3 {
-    font-family: Helvetica, sans-serif, Arial
 }
